@@ -34,3 +34,6 @@
 7. DELETE FROM Employees WHERE EmployeeID = 3;
 
 8. DROP TABLE Employees;
+
+-- sir nagkamali ako ng lagay sa may insert po sa part ng id so nag ud pa po ako to apply the instruction po 
+-- kaya po sa insert iba yung given data po kay sa step two po. Salamat po sa Dios 
