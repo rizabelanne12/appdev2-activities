@@ -1,0 +1,12 @@
+﻿Case Scenario: 
+As an experienced professional in the software industry, you are currently employed at a company that has developed its own software solution, integrating various third-party software components. Recently, your team encountered a significant challenge with one of your third-party software providers. The provider notified you that they would cease support for your current implementation and required you to upgrade your codebase to align with their new implementation standards.
+
+
+This unexpected development prompted your team to reflect on your processes and consider preventive measures to mitigate similar challenges in the future. While this issue primarily concerns the third-party software provider, it raises questions about your approach to software integration and dependency management.
+
+
+
+
+1. How can you improve your communication and relationship with third-party software providers to stay informed about upcoming changes or updates?
+
+Based on the scenario given the third party software provider did not inform the company about the changes to their software. To solve this issue there should have strong communication between the two.To enhance communication and relationships with third-party software providers, maintain regular contact through various channels, attend industry events for networking opportunities, participate in user groups and forums, request roadmap reviews, offer feedback, explore partnership options, and ensure contractual agreements outline expectations for communication and updates, all aimed at staying informed about upcoming changes or updates.
