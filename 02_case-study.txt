@@ -1,0 +1,17 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge
+software solution to our users and clients. The project was meticulously planned with a target launch date 
+of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, 
+and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, 
+has not yet begun. As a software engineer involved in the project, what aspects could have been handled better 
+to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+
+Answer: 
+
+To resolve this kind of situation, as a software engineer you should have better planning and scope definition.
+You need to better to understand the requirement gathering from the client, estimates the time takes of each task and 
+have a regular review of project scope. For management of task, currently in our ISPM or Proejct Management, We apply the AGILE 
+approach to breakdown each backlogs of task. Our leader in my group, once the backlogs are finalize she identify first which backlogs are
+very important or in critical and need to develop first by the development team, and then the remaining backlogs will be in the next sprint. 
+For QA, after the one task have been develop, we testing it as soon as possible to identify the bugs in the system so it can fix it by the developer, 
+by that we can sure the product will be in good quality. 
